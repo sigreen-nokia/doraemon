@@ -74,7 +74,7 @@ export LINE_CHANNEL_ACCESS_TOKEN_LL="14Id1pxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ## run doraemon as follows 
 
 ```
-cd  doraemon #(you much be in this doraemon  git when you run docker)
+cd  doraemon #(you must be in this doraemon  git when you run docker)
 docker run -d  -v /tmp/gazoo-commands:/tmp/gazoo-commands --restart always --name=gazoo -v ${PWD}/scripts:/scripts -p 8080:8080 simonjohngreen/gazoo
 ```
 
