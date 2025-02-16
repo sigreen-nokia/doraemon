@@ -29,7 +29,7 @@
 * doraemon is Opensource. 
 * doraemon uses gazoo as a base, gazoo is also opensource. https://github.com/sigreen-nokia/gazoo 
 
-*The topology could not be much simpler
+* The topology could not be much simpler
    
            ############      ############            ######################
            #          #      #          #            #                    #
@@ -59,8 +59,8 @@
 * on the line developer console https://developers.line.biz
 *   in the channel enable the message api and add a long lived access token.
 *   then within the channel the grab the following info to use below:
-*       User ID
-*       Channel access token (long-lived)
+*   User ID
+*   Channel access token (long-lived)
 
 ## configure doraemon to use your line account
 
