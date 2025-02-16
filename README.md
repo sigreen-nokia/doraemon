@@ -101,6 +101,6 @@ docker run -d  -v /tmp/gazoo-commands:/tmp/gazoo-commands --restart always --nam
 
 <img src="https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-phone-app.jpg" alt="Alt Text" width="200" height="600">
 
-<img src="https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-web-app.jpg" alt="Alt Text" width="300" height="400">
+<img src="https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-web-app.png" alt="Alt Text" width="300" height="400">
 
 
