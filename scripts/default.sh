@@ -3,8 +3,8 @@
 #######################################################
 #change these two to point to your line account channel
 #######################################################
-export LINE_USER_ID="U720969f328563482eecac8e6dc3fa2cf"
-export LINE_CHANNEL_ACCESS_TOKEN_LL="14Id1pLyRGBHs/nOec/0UeKmyX9d8fRVqjL/i3ZivM/yCx0WOo+49lAtNTh9Un+AdC4/2ef/Fii1YeqnWEwDrQSqjzcB/VAt6wIve01Pjo0B7YJ80qsLc8pfSZcOqvlcvHH3XyLPPChx2FrjG+7BVQdB04t89/1O/w1cDnyilFU="
+export LINE_USER_ID="U720xxxxxxxxxxxxxxxxxcf"
+export LINE_CHANNEL_ACCESS_TOKEN_LL="14Id1pxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxnyilFU="
 #######################################################
 
 #function that send the line app text messages
