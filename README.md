@@ -97,4 +97,9 @@ docker run -d  -v /tmp/gazoo-commands:/tmp/gazoo-commands --restart always --nam
 ## Developer ? 
 * If you are a developer and would preffer to build your own container using my source code see https://github.com/sigreen-nokia/gazoo 
 
+line-phone-app.jpg
+line-web-app.png
+
+![alt text](https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-phone-app.jpg?raw=true)
+
 
