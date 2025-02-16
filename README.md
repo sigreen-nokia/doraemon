@@ -100,6 +100,8 @@ docker run -d  -v /tmp/gazoo-commands:/tmp/gazoo-commands --restart always --nam
 line-phone-app.jpg
 line-web-app.png
 
-![alt text](https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-phone-app.jpg?raw=true)
+![alt text. @20%](https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-phone-app.jpg?raw=true)
+
+![alt text. @20%](https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-web-app.jpg?raw=true)
 
 
