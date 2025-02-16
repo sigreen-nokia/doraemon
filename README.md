@@ -80,14 +80,14 @@ docker run -d  -v /tmp/gazoo-commands:/tmp/gazoo-commands --restart always --nam
 
 ## Steps to configure the webhook on Deepfield
 * The assumption is that you have port 8080 opened up all the way to the docker
-*       In the defender ui
-*       Admin->notification->[add]
-*       name doraemon        
-*       tick webhook         
-*       url: http://[your docker hosts ip or fqdn]:8080
-*       click test, you should see a green test sent successfully if your firewall routers and docker allow the 8080 port traffic
-*       save
-*       add this notification as the action in your Defender policies
+*  In the defender ui
+*  Admin->notification->[add]
+*  name doraemon        
+*  tick webhook         
+*  url: http://[your docker hosts ip or fqdn]:8080
+*  click test, you should see a green test sent successfully if your firewall routers and docker allow the 8080 port traffic
+*  save
+*  add this notification as the action in your Defender policies
 
 ## Then what ?
 
