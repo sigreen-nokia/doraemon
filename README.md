@@ -91,8 +91,8 @@ docker run -d  -v /tmp/gazoo-commands:/tmp/gazoo-commands --restart always --nam
 
 ## Then what ?
 
-*       start or wait for a DDoS event 
-*       you should see DDoS related messages on your line account
+* start or wait for a DDoS event 
+* you should see DDoS related messages on your line account
 
 ## Developer ? 
 * If you are a developer and would preffer to build your own container using my source code see https://github.com/sigreen-nokia/gazoo 
