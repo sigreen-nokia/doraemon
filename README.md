@@ -104,4 +104,6 @@ line-web-app.png
 
 ![alt text. @20%](https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-web-app.jpg?raw=true)
 
+<img src="https://github.com/sigreen-nokia/doraemon/blob/main/pics/line-phone-app.jpg" alt="Alt Text" width="100" height="300">
+
 
